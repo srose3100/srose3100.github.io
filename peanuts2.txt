@@ -1,0 +1,5 @@
+banana.txt
+myoutput.txt
+peanuts.txt
+rm
+somefile.txt
